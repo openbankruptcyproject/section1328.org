@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://section1328.org/sitemap.xml
