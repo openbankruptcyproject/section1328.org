@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Section 1328(b) Hardship Discharge -- Requirements and Process
+## Section 1328(b) Hardship Discharge - Requirements and Process
 Source: https://section1328.org/1328b-hardship.html
 
 Skip to main content
@@ -24,7 +24,7 @@ vs Chapter 7
 
 Section 1328(b) Hardship Discharge
 
-When you cannot complete your Chapter 13 plan, 1328(b) offers an alternative to dismissal -- but you must meet all three requirements
+When you cannot complete your Chapter 13 plan, 1328(b) offers an alternative to dismissal - but you must meet all three requirements
 
 Network › Section 1328 › 1328(b) Hardship Discharge
 
@@ -32,13 +32,13 @@ What Is a Hardship Discharge?
 
 A Chapter 13 bankruptcy plan typically runs three to five years. During that time, the debtor makes monthly payments to a Chapter 13 trustee, who distributes the money to creditors according to the confirmed plan. The debtor receives a discharge under Section 1328(a) only after completing all required payments.
 
-But life does not always cooperate. Sometimes a debtor who was faithfully making payments for two or three years suffers a catastrophic event -- a disabling injury, a terminal diagnosis, the death of a spouse whose income was essential to the plan. When that happens, the debtor faces a choice: dismiss the case and lose all the progress made, or seek a hardship discharge under Section 1328(b).
+But life does not always cooperate. Sometimes a debtor who was faithfully making payments for two or three years suffers a catastrophic event - a disabling injury, a terminal diagnosis, the death of a spouse whose income was essential to the plan. When that happens, the debtor faces a choice: dismiss the case and lose all the progress made, or seek a hardship discharge under Section 1328(b).
 
 The hardship discharge exists because Congress recognized that forcing a debtor to choose between dismissal and an impossible plan serves no one. If unsecured creditors have already received at least what they would have gotten in a Chapter 7 liquidation, and the debtor's inability to continue is genuinely not their fault, the law provides a way to close the case with a discharge rather than a dismissal.
 
 However, this is not an easy standard to meet. Courts take the three requirements seriously, and the resulting discharge is narrower than the full 1328(a) discharge. The hardship discharge does not include the "superdischarge" provisions that make Chapter 13 attractive for some debtors.
 
-The Three Requirements -- All Must Be Met
+The Three Requirements - All Must Be Met
 
 Section 1328(b) sets out three conditions, and the debtor must satisfy all three to obtain a hardship discharge. Failing on even one is fatal to the request.
 
@@ -50,11 +50,11 @@ This is the most litigated of the three requirements. Courts look for events tha
 
 What qualifies:
 
-Serious illness or disability that prevents the debtor from working. A disabling car accident, a cancer diagnosis, a stroke -- these are the classic examples.
+Serious illness or disability that prevents the debtor from working. A disabling car accident, a cancer diagnosis, a stroke - these are the classic examples.
 
 Death of a spouse or co-debtor whose income was relied upon for plan payments.
 
-Involuntary job loss -- layoff, plant closure, employer bankruptcy. The key word is involuntary.
+Involuntary job loss - layoff, plant closure, employer bankruptcy. The key word is involuntary.
 
 Incarceration of the debtor (in some circuits).
 
@@ -72,7 +72,7 @@ Failure to maintain insurance when the plan depended on insured assets.
 
 Divorce alone, unless it caused a genuine and unavoidable income reduction. Some courts distinguish between the divorce itself (a choice) and the resulting economic consequences (which may be involuntary).
 
-The standard is not impossibility -- the debtor does not have to show that continuing payments is literally impossible. But the debtor must show that the circumstances are serious, involuntary, and the genuine cause of the inability to complete the plan.
+The standard is not impossibility - the debtor does not have to show that continuing payments is literally impossible. But the debtor must show that the circumstances are serious, involuntary, and the genuine cause of the inability to complete the plan.
 
 Requirement 2: The Best Interest Test
 
@@ -82,13 +82,13 @@ In plain English: unsecured creditors must have received at least as much throug
 
 This is the same "best interest of creditors" test that applies at plan confirmation under Section 1325(a)(4). The difference is that at the hardship discharge stage, the court looks at what has actually been distributed, not what is projected to be distributed.
 
-How this works in practice: if the debtor has no non-exempt assets (which is common), then unsecured creditors would have received nothing in a Chapter 7 liquidation. In that case, even minimal payments through the Chapter 13 plan will satisfy the best interest test. But if the debtor owned substantial non-exempt property -- equity in a home above the homestead exemption, valuable vehicles, investment accounts -- then the Chapter 7 liquidation value could be significant, and the debtor may need to have paid a substantial amount before this requirement is met.
+How this works in practice: if the debtor has no non-exempt assets (which is common), then unsecured creditors would have received nothing in a Chapter 7 liquidation. In that case, even minimal payments through the Chapter 13 plan will satisfy the best interest test. But if the debtor owned substantial non-exempt property - equity in a home above the homestead exemption, valuable vehicles, investment accounts - then the Chapter 7 liquidation value could be significant, and the debtor may need to have paid a substantial amount before this requirement is met.
 
 Requirement 3: Modification Must Be Impracticable
 
 Section 1328(b)(3) requires that "modification of the plan under section 1329 of this title is not practicable."
 
-This is the gatekeeping requirement. Before the court will grant a hardship discharge, it needs to know that the debtor has considered -- and rejected as unworkable -- the alternative of simply modifying the plan.
+This is the gatekeeping requirement. Before the court will grant a hardship discharge, it needs to know that the debtor has considered - and rejected as unworkable - the alternative of simply modifying the plan.
 
 Section 1329 allows plan modification after confirmation. The debtor can reduce monthly payments, extend the plan term (up to 60 months), or change the treatment of specific claims. If any of these modifications would allow the debtor to complete the plan, the court will deny the hardship discharge and direct the debtor to modify instead.
 
@@ -104,37 +104,37 @@ Under Section 1328(c)(2), a hardship discharge does not discharge any debt that 
 
 Debts that survive a hardship discharge include:
 
-Domestic support obligations -- child support, alimony, spousal maintenance (Section 523(a)(5))
+Domestic support obligations - child support, alimony, spousal maintenance (Section 523(a)(5))
 
-Debts obtained by fraud -- false pretenses, false representations, actual fraud (Section 523(a)(2))
+Debts obtained by fraud - false pretenses, false representations, actual fraud (Section 523(a)(2))
 
-Fiduciary fraud and embezzlement -- defalcation while acting in a fiduciary capacity, embezzlement, larceny (Section 523(a)(4))
+Fiduciary fraud and embezzlement - defalcation while acting in a fiduciary capacity, embezzlement, larceny (Section 523(a)(4))
 
-Willful and malicious injury -- intentional torts (Section 523(a)(6))
+Willful and malicious injury - intentional torts (Section 523(a)(6))
 
-Student loans -- unless the debtor can show undue hardship (Section 523(a)(8))
+Student loans - unless the debtor can show undue hardship (Section 523(a)(8))
 
-Certain tax debts -- depending on age and type (Section 523(a)(1))
+Certain tax debts - depending on age and type (Section 523(a)(1))
 
-DUI/DWI debts -- death or personal injury caused by intoxicated driving (Section 523(a)(9))
+DUI/DWI debts - death or personal injury caused by intoxicated driving (Section 523(a)(9))
 
-By contrast, the full 1328(a) discharge -- available only after completing all plan payments -- can discharge certain property settlement obligations from divorce (Section 523(a)(15) debts) that survive both Chapter 7 and hardship discharges. This is one of the remaining "superdischarge" advantages of completing a Chapter 13 plan.
+By contrast, the full 1328(a) discharge - available only after completing all plan payments - can discharge certain property settlement obligations from divorce (Section 523(a)(15) debts) that survive both Chapter 7 and hardship discharges. This is one of the remaining "superdischarge" advantages of completing a Chapter 13 plan.
 
 The Process: How to Request a Hardship Discharge
 
 The hardship discharge is not automatic. The debtor must affirmatively request it by filing a motion with the bankruptcy court. Here is the typical process:
 
-File a motion -- The debtor (or debtor's attorney) files a motion for hardship discharge under Section 1328(b), along with a supporting declaration or affidavit explaining the circumstances.
+File a motion - The debtor (or debtor's attorney) files a motion for hardship discharge under Section 1328(b), along with a supporting declaration or affidavit explaining the circumstances.
 
-Provide evidence -- The debtor must present evidence supporting all three requirements. Medical records for disability claims. A death certificate if the co-debtor died. Termination letters for job loss. A comparison of what unsecured creditors received versus what they would have received in Chapter 7. An explanation of why plan modification would not work.
+Provide evidence - The debtor must present evidence supporting all three requirements. Medical records for disability claims. A death certificate if the co-debtor died. Termination letters for job loss. A comparison of what unsecured creditors received versus what they would have received in Chapter 7. An explanation of why plan modification would not work.
 
-Notice to creditors -- Creditors and the Chapter 13 trustee must receive notice of the motion and an opportunity to object.
+Notice to creditors - Creditors and the Chapter 13 trustee must receive notice of the motion and an opportunity to object.
 
-Trustee's position -- The Chapter 13 trustee will review the motion and may support it, oppose it, or take no position. The trustee's view carries significant weight with many judges because the trustee has direct knowledge of the debtor's payment history and financial situation.
+Trustee's position - The Chapter 13 trustee will review the motion and may support it, oppose it, or take no position. The trustee's view carries significant weight with many judges because the trustee has direct knowledge of the debtor's payment history and financial situation.
 
-Hearing -- The court will schedule a hearing. The debtor may need to testify. If creditors object, they will have an opportunity to cross-examine the debtor and present their own evidence.
+Hearing - The court will schedule a hearing. The debtor may need to testify. If creditors object, they will have an opportunity to cross-examine the debtor and present their own evidence.
 
-Court ruling -- The judge decides whether all three requirements are met. If yes, the court enters a hardship discharge order. If no, the debtor must either modify the plan, continue payments, or the case may be dismissed.
+Court ruling - The judge decides whether all three requirements are met. If yes, the court enters a hardship discharge order. If no, the debtor must either modify the plan, continue payments, or the case may be dismissed.
 
 Strategic Considerations
 
@@ -142,7 +142,7 @@ Timing matters. A debtor who has made three years of payments and then becomes d
 
 Documentation is everything. Vague claims of hardship will not succeed. The debtor needs medical records, employer letters, financial statements, and any other documentation that proves the circumstances are genuine, involuntary, and permanent (or at least long-lasting).
 
-Consider the alternatives. Before filing a hardship discharge motion, evaluate whether plan modification under Section 1329 could work. Extending the plan to 60 months, reducing payments, or changing claim treatment might be a better path -- especially because it preserves the full 1328(a) discharge scope including the superdischarge provisions.
+Consider the alternatives. Before filing a hardship discharge motion, evaluate whether plan modification under Section 1329 could work. Extending the plan to 60 months, reducing payments, or changing claim treatment might be a better path - especially because it preserves the full 1328(a) discharge scope including the superdischarge provisions.
 
 Conversion to Chapter 7. In some situations, converting the case to Chapter 7 under Section 1307(a) may be preferable to a hardship discharge. If the debtor qualifies for Chapter 7 (passes the means test or qualifies under the totality of circumstances), conversion produces a similar discharge scope and may be procedurally simpler. However, conversion exposes non-exempt assets to liquidation, which may not be acceptable.
 
@@ -150,7 +150,7 @@ Frequently Asked Questions
 
 What is a hardship discharge?
 
-A hardship discharge under 11 U.S.C. Section 1328(b) allows a Chapter 13 debtor to receive a discharge without completing all plan payments. It requires meeting three conditions: the failure to complete payments is due to circumstances beyond the debtor's control, unsecured creditors have received at least as much as they would have in a Chapter 7 liquidation, and modification of the plan is not practicable. The resulting discharge is narrower than a full Chapter 13 discharge -- it has essentially the same scope as a Chapter 7 discharge.
+A hardship discharge under 11 U.S.C. Section 1328(b) allows a Chapter 13 debtor to receive a discharge without completing all plan payments. It requires meeting three conditions: the failure to complete payments is due to circumstances beyond the debtor's control, unsecured creditors have received at least as much as they would have in a Chapter 7 liquidation, and modification of the plan is not practicable. The resulting discharge is narrower than a full Chapter 13 discharge - it has essentially the same scope as a Chapter 7 discharge.
 
 Do I have to try plan modification before requesting a hardship discharge?
 
@@ -162,7 +162,7 @@ A hardship discharge under Section 1328(b) has the same scope as a Chapter 7 dis
 
 How much do I need to have paid into the plan to get a hardship discharge?
 
-There is no minimum payment percentage specified in the statute. The requirement is that unsecured creditors must have received at least as much as they would have received in a Chapter 7 liquidation (the best interest test). If the debtor has no non-exempt assets -- which is common -- then unsecured creditors would have received nothing in Chapter 7, and even minimal plan payments will satisfy this test. If the debtor had substantial non-exempt assets, more plan payments may be needed before this requirement is met.
+There is no minimum payment percentage specified in the statute. The requirement is that unsecured creditors must have received at least as much as they would have received in a Chapter 7 liquidation (the best interest test). If the debtor has no non-exempt assets - which is common - then unsecured creditors would have received nothing in Chapter 7, and even minimal plan payments will satisfy this test. If the debtor had substantial non-exempt assets, more plan payments may be needed before this requirement is met.
 
 Related Resources
 
@@ -179,13 +179,13 @@ Subscribe
 
 Cross-Network Resources
 
-bankruptcyhardship.org -- Dedicated site for Chapter 13 hardship discharge guidance
+bankruptcyhardship.org - Dedicated site for Chapter 13 hardship discharge guidance
 
-chapter13plan.org -- How Chapter 13 repayment plans work, including modification
+chapter13plan.org - How Chapter 13 repayment plans work, including modification
 
-dismissedbankruptcy.org -- What happens when a Chapter 13 case is dismissed
+dismissedbankruptcy.org - What happens when a Chapter 13 case is dismissed
 
-meanstest.org -- The means test and Chapter 7 eligibility (relevant if considering conversion)
+meanstest.org - The means test and Chapter 7 eligibility (relevant if considering conversion)
 
 Last updated: March 2026
 
@@ -199,15 +199,19 @@ Chapter 7 vs Chapter 13 Comparison
 
 524 Discharge Injunction
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Further Reading & Resources
 
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -346,17 +350,17 @@ The Two Section 1328(f) Discharge Bars
 
 Section 1328(f) contains two separate timing bars that can prevent a debtor from receiving a Chapter 13 discharge. Both were added by the Bankruptcy Abuse Prevention and Consumer Protection Act (BAPCPA) in 2005.
 
-1328(f)(1) -- Prior Chapter 7, 11, or 12 Discharge
+1328(f)(1) - Prior Chapter 7, 11, or 12 Discharge
 
 A debtor may not receive a Chapter 13 discharge if the debtor received a discharge under Section 727 (Chapter 7), Section 1141 (Chapter 11), or Section 1228 (Chapter 12) in a case filed within four years before the date of the filing of the current Chapter 13 case.
 
 The four-year clock runs from the filing date of the prior case to the filing date of the new case. It does not run from the discharge date. This is a critical distinction that is frequently misunderstood.
 
-1328(f)(2) -- Prior Chapter 13 Discharge
+1328(f)(2) - Prior Chapter 13 Discharge
 
 A debtor may not receive a Chapter 13 discharge if the debtor received a prior Chapter 13 discharge under Section 1328 in a case filed within two years before the date of the filing of the current case.
 
-Again, the two-year clock runs filing date to filing date. Because Chapter 13 plans run three to five years, the two-year bar rarely prevents a subsequent Chapter 13 filing from receiving a discharge -- by the time the first plan is complete and the discharge is entered, two years have almost certainly passed since the first case was filed.
+Again, the two-year clock runs filing date to filing date. Because Chapter 13 plans run three to five years, the two-year bar rarely prevents a subsequent Chapter 13 filing from receiving a discharge - by the time the first plan is complete and the discharge is entered, two years have almost certainly passed since the first case was filed.
 
 Discharge Eligibility Calculator
 
@@ -386,21 +390,21 @@ An important point that confuses many people: Section 1328(f) is a discharge bar
 
 Why would someone file Chapter 13 knowing they cannot get a discharge? There are several legitimate reasons:
 
-Automatic stay protection -- Filing triggers the automatic stay under Section 362, which stops collection actions, foreclosure, wage garnishment, and repossession (though the stay may be limited for serial filers under Sections 362(c)(3) and (c)(4)).
+Automatic stay protection - Filing triggers the automatic stay under Section 362, which stops collection actions, foreclosure, wage garnishment, and repossession (though the stay may be limited for serial filers under Sections 362(c)(3) and (c)(4)).
 
-Stopping foreclosure -- A Chapter 13 plan can cure mortgage arrears over the plan term, even without a discharge. The debtor can save their home by making current payments plus arrears through the plan.
+Stopping foreclosure - A Chapter 13 plan can cure mortgage arrears over the plan term, even without a discharge. The debtor can save their home by making current payments plus arrears through the plan.
 
-Restructuring secured debt -- Vehicle loans and other secured debts can be restructured through the plan. Even without a discharge of personal liability, the debtor gets the benefit of the restructured payment terms during the plan.
+Restructuring secured debt - Vehicle loans and other secured debts can be restructured through the plan. Even without a discharge of personal liability, the debtor gets the benefit of the restructured payment terms during the plan.
 
-Buying time -- Some debtors file during the bar period simply to gain time to reorganize their finances under the protection of the automatic stay, knowing the discharge bar will expire before the plan is complete.
+Buying time - Some debtors file during the bar period simply to gain time to reorganize their finances under the protection of the automatic stay, knowing the discharge bar will expire before the plan is complete.
 
 Common Misconceptions
 
-Misconception: The clock runs from discharge date. Wrong. Both 1328(f)(1) and 1328(f)(2) measure from the filing date of the prior case to the filing date of the new case. If you filed Chapter 7 on January 1, 2022, and received your discharge on May 1, 2022, the four-year bar expires on January 1, 2026 -- not May 1, 2026.
+Misconception: The clock runs from discharge date. Wrong. Both 1328(f)(1) and 1328(f)(2) measure from the filing date of the prior case to the filing date of the new case. If you filed Chapter 7 on January 1, 2022, and received your discharge on May 1, 2022, the four-year bar expires on January 1, 2026 - not May 1, 2026.
 
 Misconception: You cannot file at all during the bar period. Wrong. You can file. You just cannot receive a discharge. The filing itself is permitted, and the automatic stay and other benefits of the case still apply (subject to serial filer limitations).
 
-Misconception: 1328(f) applies even without a prior discharge. Wrong. If the prior case was dismissed without a discharge -- whether voluntarily or involuntarily -- Section 1328(f) does not apply. The bar only kicks in when the debtor actually "received a discharge" in the prior case.
+Misconception: 1328(f) applies even without a prior discharge. Wrong. If the prior case was dismissed without a discharge - whether voluntarily or involuntarily - Section 1328(f) does not apply. The bar only kicks in when the debtor actually "received a discharge" in the prior case.
 
 Misconception: The bars overlap with 727(a)(8). Section 727(a)(8) is the separate eight-year bar on Chapter 7 discharges. It applies to Chapter 7 cases, while 1328(f) applies to Chapter 13 cases. They are different statutes governing different chapters. For a complete picture of all four discharge bar combinations, see the 1328f.com screener or dischargebar.org.
 
@@ -423,7 +427,7 @@ Yes. Section 1328(f) is a discharge bar, not a filing bar. You can file a Chapte
 
 Does 1328(f) run from filing date or discharge date?
 
-Filing date to filing date. This is one of the most common misconceptions in bankruptcy law. The statute says "in a case filed within" the specified period. So if your Chapter 7 was filed on March 1, 2022, the four-year bar under 1328(f)(1) expires on March 1, 2026 -- regardless of when you actually received the Chapter 7 discharge.
+Filing date to filing date. This is one of the most common misconceptions in bankruptcy law. The statute says "in a case filed within" the specified period. So if your Chapter 7 was filed on March 1, 2022, the four-year bar under 1328(f)(1) expires on March 1, 2026 - regardless of when you actually received the Chapter 7 discharge.
 
 What is the difference between 1328(f)(1) and 1328(f)(2)?
 
@@ -437,13 +441,13 @@ Subscribe
 
 Cross-Network Resources
 
-1328f.com -- Full discharge eligibility screener with 4.9 million case database
+1328f.com - Full discharge eligibility screener with 4.9 million case database
 
-727a8.com -- Section 727(a)(8) eight-year bar between Chapter 7 discharges
+727a8.com - Section 727(a)(8) eight-year bar between Chapter 7 discharges
 
-dischargebar.org -- Complete guide to all discharge timing bars
+dischargebar.org - Complete guide to all discharge timing bars
 
-109g.org -- Section 109(g) filing bars and eligibility restrictions
+109g.org - Section 109(g) filing bars and eligibility restrictions
 
 Last updated: March 2026
 
@@ -462,10 +466,10 @@ Further Reading & Resources
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -578,7 +582,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Section 1328(f) -- Discharge Timing Bars
+## Section 1328(f) - Discharge Timing Bars
 Source: https://section1328.org/discharge-bars.html
 
 Skip to main content
@@ -594,11 +598,11 @@ Discharge Bars
 vs Chapter 7
 1328(b) Deep Dive
 
-Section 1328 -- Chapter 13 Discharge
+Section 1328 - Chapter 13 Discharge
 
 Dedicated deep dive into the Chapter 13 discharge statute
 
-Network › Section 1328 -- Chapter 13 Discharge
+Network › Section 1328 - Chapter 13 Discharge
 
 The Two Timing Bars
 
@@ -608,7 +612,7 @@ Section 1328(f)(2): No Chapter 13 discharge if the debtor received a prior Chapt
 
 Filing Date to Filing Date
 
-Both bars are measured from the filing date of the prior case to the filing date of the current case -- not from discharge date. This is a common misconception that can lead to premature filing and denial of discharge.
+Both bars are measured from the filing date of the prior case to the filing date of the current case - not from discharge date. This is a common misconception that can lead to premature filing and denial of discharge.
 
 Screen Your Eligibility
 
@@ -636,21 +640,21 @@ Subscribe
 
 Related Resources
 
-Discharge Bars -- Time limits between bankruptcy discharges by chapter
+Discharge Bars - Time limits between bankruptcy discharges by chapter
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
-Hardship Discharge -- Section 1328(b) discharge when you cannot complete your plan
+Hardship Discharge - Section 1328(b) discharge when you cannot complete your plan
 
 Further Reading & Resources
 
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -763,7 +767,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Domestic Support Obligations in Chapter 13 -- Section 1328(a)(2)
+## Domestic Support Obligations in Chapter 13 - Section 1328(a)(2)
 Source: https://section1328.org/domestic-support.html
 
 Skip to main content
@@ -781,7 +785,7 @@ vs Chapter 7
 
 Domestic Support Obligations in Chapter 13
 
-Section 1328(a)(2) -- Child support, alimony, and spousal maintenance are never dischargeable in bankruptcy
+Section 1328(a)(2) - Child support, alimony, and spousal maintenance are never dischargeable in bankruptcy
 
 Network › Section 1328 › Domestic Support Obligations
 
@@ -805,27 +809,27 @@ Not assigned to a nongovernmental entity (unless voluntarily assigned for collec
 
 Common examples of DSOs:
 
-Child support payments -- whether court-ordered or agreed in a separation agreement
+Child support payments - whether court-ordered or agreed in a separation agreement
 
-Alimony and spousal maintenance -- periodic payments for the support of a former spouse
+Alimony and spousal maintenance - periodic payments for the support of a former spouse
 
-Medical and dental expenses for children -- when ordered as part of a support obligation
+Medical and dental expenses for children - when ordered as part of a support obligation
 
-Health insurance premiums for dependents -- when required by a support order
+Health insurance premiums for dependents - when required by a support order
 
 Attorney fees awarded in connection with establishing or enforcing support obligations
 
-Even the Chapter 13 "superdischarge" -- which allows Chapter 13 to discharge certain debts that survive Chapter 7 -- does not touch domestic support obligations. DSOs are carved out of every discharge provision in the Code.
+Even the Chapter 13 "superdischarge" - which allows Chapter 13 to discharge certain debts that survive Chapter 7 - does not touch domestic support obligations. DSOs are carved out of every discharge provision in the Code.
 
 DSOs as Priority Claims Under Section 507(a)(1)
 
-Domestic support obligations are not just nondischargeable -- they are first-priority claims under Section 507(a)(1)(A). This has major implications for how they are treated in a Chapter 13 plan:
+Domestic support obligations are not just nondischargeable - they are first-priority claims under Section 507(a)(1)(A). This has major implications for how they are treated in a Chapter 13 plan:
 
-Must be paid in full -- The plan must provide for full payment of all allowed DSO claims. Section 1322(a)(2) requires that the plan provide for full payment of all priority claims unless the holder agrees to different treatment.
+Must be paid in full - The plan must provide for full payment of all allowed DSO claims. Section 1322(a)(2) requires that the plan provide for full payment of all priority claims unless the holder agrees to different treatment.
 
-Paid before general unsecured creditors -- DSOs take priority over credit cards, medical bills, personal loans, and all other general unsecured claims.
+Paid before general unsecured creditors - DSOs take priority over credit cards, medical bills, personal loans, and all other general unsecured claims.
 
-Paid before administrative expenses in some cases -- DSO claims assigned to a governmental unit have super-priority even over the Chapter 13 trustee's commission.
+Paid before administrative expenses in some cases - DSO claims assigned to a governmental unit have super-priority even over the Chapter 13 trustee's commission.
 
 In practical terms, this means a Chapter 13 plan must include enough funding to pay all pre-petition DSO arrears in full over the life of the plan, on top of current DSO payments that continue outside the plan.
 
@@ -833,7 +837,7 @@ The Ongoing Obligation During the Plan
 
 Filing Chapter 13 does not pause your domestic support obligations. You must continue making current DSO payments throughout the plan. These current payments are typically made directly to the recipient (or the state child support enforcement agency), not through the Chapter 13 trustee.
 
-Pre-petition arrears -- the amount you owed before filing -- are different. Those arrears are treated as a priority claim in the plan and paid through the trustee along with other plan payments.
+Pre-petition arrears - the amount you owed before filing - are different. Those arrears are treated as a priority claim in the plan and paid through the trustee along with other plan payments.
 
 Falling behind on DSOs during Chapter 13 has serious consequences:
 
@@ -843,13 +847,13 @@ Section 1328(a) requires the debtor to certify that all DSOs that became payable
 
 The Chapter 13 trustee and the DSO creditor can both move for dismissal if the debtor falls behind.
 
-This creates a practical challenge for many Chapter 13 debtors. The plan payment and the current DSO payment are both mandatory, and together they may consume most of the debtor's disposable income. If the debtor's income drops during the plan, the DSO cannot be reduced by the bankruptcy court -- that requires a separate motion in family court.
+This creates a practical challenge for many Chapter 13 debtors. The plan payment and the current DSO payment are both mandatory, and together they may consume most of the debtor's disposable income. If the debtor's income drops during the plan, the DSO cannot be reduced by the bankruptcy court - that requires a separate motion in family court.
 
 The Discharge Certification Requirement
 
 Before the court will enter a Chapter 13 discharge under Section 1328(a), the debtor must file a certification (typically using Official Bankruptcy Form 2830) stating that all domestic support obligations that became payable on or before the date of the certification have been paid. This includes both pre-petition arrears (paid through the plan) and post-petition current obligations (paid directly).
 
-If the debtor cannot certify that all DSOs are current, the court will not enter the discharge. The case may remain open, be dismissed, or the debtor may seek a hardship discharge under Section 1328(b) -- but even the hardship discharge does not discharge the DSO itself.
+If the debtor cannot certify that all DSOs are current, the court will not enter the discharge. The case may remain open, be dismissed, or the debtor may seek a hardship discharge under Section 1328(b) - but even the hardship discharge does not discharge the DSO itself.
 
 Property Settlement vs. Support: The Critical Distinction
 
@@ -887,11 +891,11 @@ Yes. Current domestic support obligations must continue to be paid during the Ch
 
 What is the difference between support and property settlement in bankruptcy?
 
-Domestic support obligations -- child support, alimony, spousal maintenance -- are excepted from discharge under Section 523(a)(5) in every chapter of bankruptcy. Property settlement obligations from divorce are excepted from discharge under Section 523(a)(15) in Chapter 7, but CAN be discharged through a completed Chapter 13 plan. This is one of the remaining superdischarge advantages of Chapter 13. The characterization depends on the actual nature of the obligation, not just the label used in the divorce decree.
+Domestic support obligations - child support, alimony, spousal maintenance - are excepted from discharge under Section 523(a)(5) in every chapter of bankruptcy. Property settlement obligations from divorce are excepted from discharge under Section 523(a)(15) in Chapter 7, but CAN be discharged through a completed Chapter 13 plan. This is one of the remaining superdischarge advantages of Chapter 13. The characterization depends on the actual nature of the obligation, not just the label used in the divorce decree.
 
 What if I cannot afford both plan payments and child support?
 
-Domestic support obligations take absolute priority. The plan must provide for full payment of pre-petition DSO arrears as a priority claim, and current DSOs must continue to be paid during the plan. If you cannot afford both, options include: modifying the plan under Section 1329 to reduce payments on other claims, extending the plan term up to 60 months, converting to Chapter 7, or dismissing the case. The bankruptcy court cannot reduce DSOs -- that requires a separate proceeding in family court. Courts will not confirm a plan that does not provide for full payment of DSOs.
+Domestic support obligations take absolute priority. The plan must provide for full payment of pre-petition DSO arrears as a priority claim, and current DSOs must continue to be paid during the plan. If you cannot afford both, options include: modifying the plan under Section 1329 to reduce payments on other claims, extending the plan term up to 60 months, converting to Chapter 7, or dismissing the case. The bankruptcy court cannot reduce DSOs - that requires a separate proceeding in family court. Courts will not confirm a plan that does not provide for full payment of DSOs.
 
 Related Resources
 
@@ -906,13 +910,13 @@ Subscribe
 
 Cross-Network Resources
 
-523a.org -- Complete guide to nondischargeable debts including child support
+523a.org - Complete guide to nondischargeable debts including child support
 
-chapter13plan.org -- How Chapter 13 plans work, including priority claim treatment
+chapter13plan.org - How Chapter 13 plans work, including priority claim treatment
 
-nondischargeable.org -- Debts that survive bankruptcy
+nondischargeable.org - Debts that survive bankruptcy
 
-bankruptcyhardship.org -- Hardship discharge options when the plan becomes unaffordable
+bankruptcyhardship.org - Hardship discharge options when the plan becomes unaffordable
 
 Last updated: March 2026
 
@@ -931,10 +935,10 @@ Further Reading & Resources
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -1047,7 +1051,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Section 1328(a) -- The Full Chapter 13 Discharge
+## Section 1328(a) - The Full Chapter 13 Discharge
 Source: https://section1328.org/full-discharge.html
 
 Skip to main content
@@ -1063,15 +1067,15 @@ Discharge Bars
 vs Chapter 7
 1328(b) Deep Dive
 
-Section 1328 -- Chapter 13 Discharge
+Section 1328 - Chapter 13 Discharge
 
 Dedicated deep dive into the Chapter 13 discharge statute
 
-Network › Section 1328 -- Chapter 13 Discharge
+Network › Section 1328 - Chapter 13 Discharge
 
 Completing Your Plan
 
-The full discharge under Section 1328(a) is awarded after the debtor completes all payments required by the confirmed plan. This is the standard path -- 3 to 5 years of payments, then discharge.
+The full discharge under Section 1328(a) is awarded after the debtor completes all payments required by the confirmed plan. This is the standard path - 3 to 5 years of payments, then discharge.
 
 Before receiving the discharge, the debtor must also complete a debtor education course (post-filing financial management course) and certify that all domestic support obligations are current.
 
@@ -1113,21 +1117,21 @@ Subscribe
 
 Related Resources
 
-Discharge Bars -- Time limits between bankruptcy discharges by chapter
+Discharge Bars - Time limits between bankruptcy discharges by chapter
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
-Hardship Discharge -- Section 1328(b) discharge when you cannot complete your plan
+Hardship Discharge - Section 1328(b) discharge when you cannot complete your plan
 
 Further Reading & Resources
 
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -1240,7 +1244,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Section 1328(b) -- Hardship Discharge
+## Section 1328(b) - Hardship Discharge
 Source: https://section1328.org/hardship-discharge.html
 
 Skip to main content
@@ -1256,19 +1260,19 @@ Discharge Bars
 vs Chapter 7
 1328(b) Deep Dive
 
-Section 1328 -- Chapter 13 Discharge
+Section 1328 - Chapter 13 Discharge
 
 Dedicated deep dive into the Chapter 13 discharge statute
 
-Network › Section 1328 -- Chapter 13 Discharge
+Network › Section 1328 - Chapter 13 Discharge
 
 Three Requirements
 
-(1) Failure to complete is due to circumstances beyond your control -- job loss, disability, death of spouse, medical emergency.
+(1) Failure to complete is due to circumstances beyond your control - job loss, disability, death of spouse, medical emergency.
 
 (2) Unsecured creditors received at least what they would have gotten in a Chapter 7 liquidation (best interest test).
 
-(3) Modification of the plan is not practicable -- you have tried or it would not solve the problem.
+(3) Modification of the plan is not practicable - you have tried or it would not solve the problem.
 
 Key Difference from Full Discharge
 
@@ -1298,21 +1302,21 @@ Subscribe
 
 Related Resources
 
-Discharge Bars -- Time limits between bankruptcy discharges by chapter
+Discharge Bars - Time limits between bankruptcy discharges by chapter
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
-Hardship Discharge -- Section 1328(b) discharge when you cannot complete your plan
+Hardship Discharge - Section 1328(b) discharge when you cannot complete your plan
 
 Further Reading & Resources
 
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -1425,7 +1429,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Section 1328 Bankruptcy Discharge -- Complete Guide [2026]
+## Section 1328 Bankruptcy Discharge - Complete Guide [2026]
 Source: https://section1328.org/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -1443,23 +1447,23 @@ Discharge Bars
 vs Chapter 7
 1328(b) Deep Dive
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Section 1328 Bankruptcy Discharge
 
 Dedicated deep dive into the Chapter 13 discharge statute
 
-Network › Section 1328 -- Chapter 13 Discharge
+Network › Section 1328 - Chapter 13 Discharge
 
 About This Site
 
-Section 1328 is the statute that governs who receives a discharge in Chapter 13 bankruptcy and what debts are included. It is one of the most consequential provisions in consumer bankruptcy law, yet it is frequently misunderstood -- even by practitioners. The section contains distinct subsections covering the full-completion discharge (1328(a)), the hardship discharge in bankruptcy (1328(b)), and the timing bars (1328(f)).
+Section 1328 is the statute that governs who receives a discharge in Chapter 13 bankruptcy and what debts are included. It is one of the most consequential provisions in consumer bankruptcy law, yet it is frequently misunderstood - even by practitioners. The section contains distinct subsections covering the full-completion discharge (1328(a)), the hardship discharge in bankruptcy (1328(b)), and the timing bars (1328(f)).
 
 This site will provide a section-by-section analysis of the entire statute, including the expanded list of debts that cannot be discharged debts that apply specifically to Chapter 13 (different from Chapter 7), the superdischarge provisions that allow Chapter 13 to discharge certain debts that survive Chapter 7, and the hardship discharge requirements.
 
 We will also cover the 2005 BAPCPA amendments that significantly changed Section 1328, the circuit splits on key interpretation issues, and practical guidance for both debtors and attorneys on maximizing the value of a Chapter 13 discharge.
 
-Part of the Open Bankruptcy Project -- a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
+Part of the Open Bankruptcy Project - a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
 
 Check Your Bankruptcy Discharge Eligibility
 
@@ -1472,21 +1476,21 @@ Explore Section 1328
 
 Dive deeper into specific aspects:
 
-Section 1328(a) -- Full Discharge
+Section 1328(a) - Full Discharge
 
-Section 1328(b) -- Hardship Discharge
+Section 1328(b) - Hardship Discharge
 
-Section 1328(b) Deep Dive -- Requirements and Process
+Section 1328(b) Deep Dive - Requirements and Process
 
-Section 1328(f) -- Timing Bars
+Section 1328(f) - Timing Bars
 
 Section 1328(f) Discharge Eligibility Calculator
 
-The Superdischarge -- Before and After BAPCPA
+The Superdischarge - Before and After BAPCPA
 
-Domestic Support Obligations -- Section 1328(a)(2)
+Domestic Support Obligations - Section 1328(a)(2)
 
-Modifying Your Plan Before Discharge -- Section 1329
+Modifying Your Plan Before Discharge - Section 1329
 
 Chapter 13 vs Chapter 7 Discharge
 
@@ -1508,21 +1512,21 @@ Subscribe
 
 Related Resources
 
-Discharge Bars -- Time limits between bankruptcy discharges by chapter
+Discharge Bars - Time limits between bankruptcy discharges by chapter
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
-hardship discharge in bankruptcy -- Section 1328(b) discharge when you cannot complete your plan
+hardship discharge in bankruptcy - Section 1328(b) discharge when you cannot complete your plan
 
 Further Reading & Resources
 
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -1567,7 +1571,7 @@ Case law and circuit analysis for Section 727(a)(8)
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Can I Keep My Car?
 
@@ -1729,11 +1733,14 @@ bankruptcyhardship.org
 voluntarypetition.org
 ♥ Sponsor
 GitHub
+Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
 
 Privacy | Terms | Open Bankruptcy Project
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1755,7 +1762,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Modifying Your Chapter 13 Plan Before Discharge -- Section 1329
+## Modifying Your Chapter 13 Plan Before Discharge - Section 1329
 Source: https://section1328.org/modification-before-discharge.html
 
 Skip to main content
@@ -1773,7 +1780,7 @@ vs Chapter 7
 
 Modifying Your Chapter 13 Plan Before Discharge
 
-Section 1329 allows changes to a confirmed plan -- and courts require you to try modification before seeking a hardship discharge
+Section 1329 allows changes to a confirmed plan - and courts require you to try modification before seeking a hardship discharge
 
 Network › Section 1328 › Plan Modification (Section 1329)
 
@@ -1781,7 +1788,7 @@ What Section 1329 Allows
 
 Section 1329 of the Bankruptcy Code permits modification of a Chapter 13 plan at any time after confirmation but before the completion of payments. This is one of the most important and most frequently used provisions in Chapter 13 practice.
 
-A confirmed Chapter 13 plan is not set in stone. Life changes -- income goes up, income goes down, cars break, medical emergencies happen, jobs are lost, spouses leave. Section 1329 gives the debtor, the trustee, and unsecured creditors the ability to adjust the plan to reflect these changed circumstances.
+A confirmed Chapter 13 plan is not set in stone. Life changes - income goes up, income goes down, cars break, medical emergencies happen, jobs are lost, spouses leave. Section 1329 gives the debtor, the trustee, and unsecured creditors the ability to adjust the plan to reflect these changed circumstances.
 
 The connection to Section 1328 is direct: before a court will grant a hardship discharge under Section 1328(b), it must be satisfied that "modification of the plan under section 1329 of this title is not practicable." In other words, you must try modification first. If modification can solve the problem, the hardship discharge is off the table.
 
@@ -1789,11 +1796,11 @@ Who Can Request Modification
 
 Section 1329(a) authorizes three parties to request plan modification:
 
-The debtor -- The most common scenario. The debtor's income has changed, expenses have increased, or circumstances require a different payment structure.
+The debtor - The most common scenario. The debtor's income has changed, expenses have increased, or circumstances require a different payment structure.
 
-The Chapter 13 trustee -- If the trustee discovers that the debtor's income has increased (often revealed through tax returns filed during the case), the trustee can move to increase plan payments. Trustees have a fiduciary duty to maximize distributions to creditors.
+The Chapter 13 trustee - If the trustee discovers that the debtor's income has increased (often revealed through tax returns filed during the case), the trustee can move to increase plan payments. Trustees have a fiduciary duty to maximize distributions to creditors.
 
-An unsecured creditor -- Less common, but an unsecured creditor who believes the debtor can pay more may request modification. This typically happens when a creditor learns of a significant income increase or windfall.
+An unsecured creditor - Less common, but an unsecured creditor who believes the debtor can pay more may request modification. This typically happens when a creditor learns of a significant income increase or windfall.
 
 Common Reasons to Modify
 
@@ -1801,7 +1808,7 @@ Reducing Payments (Debtor-Initiated)
 
 Income decrease: Job loss, hours cut, pay reduction, disability. If the debtor's income drops significantly and the current payment is no longer feasible, modification is the first remedy to pursue. The modified plan must still satisfy confirmation requirements, but a genuine income decrease usually justifies a payment reduction.
 
-Increased necessary expenses: A medical emergency, a necessary car repair, increased childcare costs, or a housing cost increase can all justify reducing the plan payment. The key word is "necessary" -- courts will not reduce payments so the debtor can fund discretionary spending.
+Increased necessary expenses: A medical emergency, a necessary car repair, increased childcare costs, or a housing cost increase can all justify reducing the plan payment. The key word is "necessary" - courts will not reduce payments so the debtor can fund discretionary spending.
 
 Unexpected events: Divorce during the plan (loss of a co-debtor's income), natural disaster, or other events that fundamentally change the debtor's financial picture.
 
@@ -1809,7 +1816,7 @@ Increasing Payments (Trustee-Initiated)
 
 Income increase: A raise, a new higher-paying job, a spouse who returns to work, or an inheritance. The trustee may learn about income increases through tax returns, pay advices, or tips from creditors. Many districts require annual tax returns to be filed with the trustee specifically so income changes can be monitored.
 
-Expense decrease: If a major expense disappears -- for example, a car is paid off, a child ages out of daycare, or the debtor refinances a mortgage -- the freed-up income may need to flow to unsecured creditors through increased plan payments.
+Expense decrease: If a major expense disappears - for example, a car is paid off, a child ages out of daycare, or the debtor refinances a mortgage - the freed-up income may need to flow to unsecured creditors through increased plan payments.
 
 Structural Changes
 
@@ -1817,9 +1824,9 @@ Adding a new secured debt: If the debtor's car dies mid-plan and they need to fi
 
 Changing claim treatment: If a creditor's claim is allowed in a different amount than originally estimated, the plan may need to be adjusted.
 
-Extending the plan term: The plan can be extended up to the maximum 60-month period (or in some cases, the applicable commitment period). This is often the simplest way to reduce monthly payments -- spread the same total over more months.
+Extending the plan term: The plan can be extended up to the maximum 60-month period (or in some cases, the applicable commitment period). This is often the simplest way to reduce monthly payments - spread the same total over more months.
 
-What Can -- and Cannot -- Be Changed
+What Can - and Cannot - Be Changed
 
 Can be changed through modification:
 
@@ -1835,37 +1842,37 @@ Addition of new secured debt (with court approval)
 
 Limitations on modification:
 
-The modified plan must still satisfy the best interest test -- unsecured creditors must receive at least as much as they would in a Chapter 7 liquidation.
+The modified plan must still satisfy the best interest test - unsecured creditors must receive at least as much as they would in a Chapter 7 liquidation.
 
 Priority claims (including domestic support obligations and taxes) must still be paid in full.
 
 The plan cannot exceed the maximum term allowed (60 months for above-median-income debtors, though some courts allow below-median debtors to extend to 60 months through modification).
 
-Some courts apply a "substantial and unanticipated change in circumstances" test -- the debtor must show that something meaningful changed since confirmation, not just that they want different terms.
+Some courts apply a "substantial and unanticipated change in circumstances" test - the debtor must show that something meaningful changed since confirmation, not just that they want different terms.
 
 The Modification Process
 
-File a modified plan and motion -- The requesting party files the proposed modified plan along with a motion explaining the changed circumstances and why modification is necessary. Supporting documentation (pay stubs, medical records, termination letter, tax returns) should accompany the motion.
+File a modified plan and motion - The requesting party files the proposed modified plan along with a motion explaining the changed circumstances and why modification is necessary. Supporting documentation (pay stubs, medical records, termination letter, tax returns) should accompany the motion.
 
-Notice to all parties -- The modified plan must be served on the trustee, all creditors, and any other affected parties. The notice period varies by district but is typically 21 to 28 days.
+Notice to all parties - The modified plan must be served on the trustee, all creditors, and any other affected parties. The notice period varies by district but is typically 21 to 28 days.
 
-Trustee review -- The Chapter 13 trustee reviews the modified plan for compliance with the Code. The trustee may support, oppose, or take no position. If the trustee opposes, they will typically file an objection explaining why the modified plan fails to meet confirmation standards.
+Trustee review - The Chapter 13 trustee reviews the modified plan for compliance with the Code. The trustee may support, oppose, or take no position. If the trustee opposes, they will typically file an objection explaining why the modified plan fails to meet confirmation standards.
 
-Objection period -- Creditors and other parties have an opportunity to object to the modified plan. If no objections are filed, many courts will confirm the modified plan without a hearing.
+Objection period - Creditors and other parties have an opportunity to object to the modified plan. If no objections are filed, many courts will confirm the modified plan without a hearing.
 
-Hearing (if needed) -- If objections are filed, the court schedules a hearing. The debtor must demonstrate that the modification is justified and that the modified plan satisfies all applicable requirements.
+Hearing (if needed) - If objections are filed, the court schedules a hearing. The debtor must demonstrate that the modification is justified and that the modified plan satisfies all applicable requirements.
 
-Order confirming modified plan -- If approved, the court enters an order confirming the modified plan. The trustee adjusts distributions accordingly.
+Order confirming modified plan - If approved, the court enters an order confirming the modified plan. The trustee adjusts distributions accordingly.
 
 Modification as an Alternative to Dismissal or Hardship Discharge
 
 When a debtor encounters financial difficulty during the plan, there are three main options:
 
-Modify the plan (Section 1329) -- Adjust payments, extend the term, or change claim treatment. This preserves the case and the debtor's progress toward a full Section 1328(a) discharge.
+Modify the plan (Section 1329) - Adjust payments, extend the term, or change claim treatment. This preserves the case and the debtor's progress toward a full Section 1328(a) discharge.
 
-Seek a hardship discharge (Section 1328(b)) -- If modification is not practicable, the debtor can request a hardship discharge. But this produces a narrower discharge without superdischarge provisions. See our 1328(b) deep dive for details.
+Seek a hardship discharge (Section 1328(b)) - If modification is not practicable, the debtor can request a hardship discharge. But this produces a narrower discharge without superdischarge provisions. See our 1328(b) deep dive for details.
 
-Dismiss or convert the case -- Dismissal ends the case without a discharge. Conversion to Chapter 7 produces a Chapter 7 discharge but exposes non-exempt assets to liquidation.
+Dismiss or convert the case - Dismissal ends the case without a discharge. Conversion to Chapter 7 produces a Chapter 7 discharge but exposes non-exempt assets to liquidation.
 
 Modification should always be the first option considered. It preserves the full scope of the 1328(a) discharge, maintains the automatic stay, and allows the debtor to continue making progress on secured debt obligations like mortgage cures and vehicle cramdowns.
 
@@ -1879,7 +1886,7 @@ Yes, if your financial circumstances have genuinely changed since the plan was c
 
 Can the trustee increase my payment?
 
-Yes. Section 1329(a) allows the trustee or any unsecured creditor to request plan modification, not just the debtor. If the trustee discovers your income has increased -- through tax returns, pay advices, or other means -- the trustee can file a motion to increase your plan payments. This is one reason districts require annual tax return filings with the trustee.
+Yes. Section 1329(a) allows the trustee or any unsecured creditor to request plan modification, not just the debtor. If the trustee discovers your income has increased - through tax returns, pay advices, or other means - the trustee can file a motion to increase your plan payments. This is one reason districts require annual tax return filings with the trustee.
 
 How many times can I modify my plan?
 
@@ -1887,7 +1894,7 @@ The statute does not set a specific limit on the number of modifications. Howeve
 
 Do I need a lawyer to modify my Chapter 13 plan?
 
-You are not legally required to have a lawyer. Pro se debtors can file modification motions themselves. However, plan modification involves technical requirements -- the modified plan must satisfy the best interest test, the feasibility test, and other confirmation standards under Section 1325(a) as made applicable by Section 1329(b)(1). Errors can result in denial of the modification or case dismissal. If you have an attorney of record, they typically handle modifications as part of their ongoing representation. For more on pro se representation, see prosedebtors.org.
+You are not legally required to have a lawyer. Pro se debtors can file modification motions themselves. However, plan modification involves technical requirements - the modified plan must satisfy the best interest test, the feasibility test, and other confirmation standards under Section 1325(a) as made applicable by Section 1329(b)(1). Errors can result in denial of the modification or case dismissal. If you have an attorney of record, they typically handle modifications as part of their ongoing representation. For more on pro se representation, see prosedebtors.org.
 
 Related Resources
 
@@ -1902,13 +1909,13 @@ Subscribe
 
 Cross-Network Resources
 
-chapter13plan.org -- How Chapter 13 plans work, including initial plan requirements
+chapter13plan.org - How Chapter 13 plans work, including initial plan requirements
 
-bankruptcyhardship.org -- When modification is not enough and hardship discharge is needed
+bankruptcyhardship.org - When modification is not enough and hardship discharge is needed
 
-dismissedbankruptcy.org -- What happens when a Chapter 13 case is dismissed
+dismissedbankruptcy.org - What happens when a Chapter 13 case is dismissed
 
-meanstest.org -- The means test and how it affects plan length requirements
+meanstest.org - The means test and how it affects plan length requirements
 
 Last updated: March 2026
 
@@ -1927,10 +1934,10 @@ Further Reading & Resources
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -2043,7 +2050,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## The Chapter 13 Superdischarge -- What Changed After BAPCPA
+## The Chapter 13 Superdischarge - What Changed After BAPCPA
 Source: https://section1328.org/superdischarge.html
 
 Skip to main content
@@ -2059,15 +2066,15 @@ Discharge Bars
 vs Chapter 7
 1328(b) Deep Dive
 
-Section 1328 -- Chapter 13 Discharge
+Section 1328 - Chapter 13 Discharge
 
 Dedicated deep dive into the Chapter 13 discharge statute
 
-Network › Section 1328 -- Chapter 13 Discharge
+Network › Section 1328 - Chapter 13 Discharge
 
 Before BAPCPA (Pre-2005)
 
-Chapter 13 historically offered a broader discharge than Chapter 7. Certain debts that survived Chapter 7 -- including debts from fraud (523(a)(2)), fiduciary fraud (523(a)(4)), and willful injury (523(a)(6)) -- could be discharged through a completed Chapter 13 plan. This was the "superdischarge."
+Chapter 13 historically offered a broader discharge than Chapter 7. Certain debts that survived Chapter 7 - including debts from fraud (523(a)(2)), fiduciary fraud (523(a)(4)), and willful injury (523(a)(6)) - could be discharged through a completed Chapter 13 plan. This was the "superdischarge."
 
 After BAPCPA (2005-Present)
 
@@ -2101,21 +2108,21 @@ Subscribe
 
 Related Resources
 
-Discharge Bars -- Time limits between bankruptcy discharges by chapter
+Discharge Bars - Time limits between bankruptcy discharges by chapter
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
-Hardship Discharge -- Section 1328(b) discharge when you cannot complete your plan
+Hardship Discharge - Section 1328(b) discharge when you cannot complete your plan
 
 Further Reading & Resources
 
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -2228,7 +2235,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Section 1328 vs Section 727 -- Chapter 13 vs Chapter 7 Discharge
+## Section 1328 vs Section 727 - Chapter 13 vs Chapter 7 Discharge
 Source: https://section1328.org/vs-chapter-7.html
 
 Skip to main content
@@ -2244,11 +2251,11 @@ Discharge Bars
 vs Chapter 7
 1328(b) Deep Dive
 
-Section 1328 -- Chapter 13 Discharge
+Section 1328 - Chapter 13 Discharge
 
 Dedicated deep dive into the Chapter 13 discharge statute
 
-Network › Section 1328 -- Chapter 13 Discharge
+Network › Section 1328 - Chapter 13 Discharge
 
 Discharge Scope
 
@@ -2312,21 +2319,21 @@ Subscribe
 
 Related Resources
 
-Discharge Bars -- Time limits between bankruptcy discharges by chapter
+Discharge Bars - Time limits between bankruptcy discharges by chapter
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
-Hardship Discharge -- Section 1328(b) discharge when you cannot complete your plan
+Hardship Discharge - Section 1328(b) discharge when you cannot complete your plan
 
 Further Reading & Resources
 
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -2436,3 +2443,75 @@ This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptc
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Privacy Policy - section1328.org
+Source: https://section1328.org/privacy.html
+
+section1328.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.

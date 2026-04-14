@@ -1,20 +1,21 @@
-# Section 1328 Bankruptcy Discharge -- Complete Guide [2026]
+# Section 1328 Bankruptcy Discharge - Complete Guide [2026]
 > Section 1328 governs Chapter 13 discharge. Learn eligibility, exceptions, hardship discharge, and the 1328(f) filing bar. 2026 guide.
 
 ## About
 section1328.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Section 1328(b) Hardship Discharge -- Requirements and Process: https://section1328.org/1328b-hardship.html
+- Section 1328(b) Hardship Discharge - Requirements and Process: https://section1328.org/1328b-hardship.html
 - Section 1328(f) Discharge Eligibility Calculator: https://section1328.org/1328f-calculator.html
-- Section 1328(f) -- Discharge Timing Bars: https://section1328.org/discharge-bars.html
-- Domestic Support Obligations in Chapter 13 -- Section 1328(a)(2): https://section1328.org/domestic-support.html
-- Section 1328(a) -- The Full Chapter 13 Discharge: https://section1328.org/full-discharge.html
-- Section 1328(b) -- Hardship Discharge: https://section1328.org/hardship-discharge.html
-- Section 1328 Bankruptcy Discharge -- Complete Guide: https://section1328.org/
-- Modifying Your Chapter 13 Plan Before Discharge -- Section 1329: https://section1328.org/modification-before-discharge.html
-- The Chapter 13 Superdischarge -- What Changed After BAPCPA: https://section1328.org/superdischarge.html
-- Section 1328 vs Section 727 -- Chapter 13 vs Chapter 7 Discharge: https://section1328.org/vs-chapter-7.html
+- Section 1328(f) - Discharge Timing Bars: https://section1328.org/discharge-bars.html
+- Domestic Support Obligations in Chapter 13 - Section 1328(a)(2): https://section1328.org/domestic-support.html
+- Section 1328(a) - The Full Chapter 13 Discharge: https://section1328.org/full-discharge.html
+- Section 1328(b) - Hardship Discharge: https://section1328.org/hardship-discharge.html
+- Section 1328 Bankruptcy Discharge - Complete Guide: https://section1328.org/
+- Modifying Your Chapter 13 Plan Before Discharge - Section 1329: https://section1328.org/modification-before-discharge.html
+- The Chapter 13 Superdischarge - What Changed After BAPCPA: https://section1328.org/superdischarge.html
+- Section 1328 vs Section 727 - Chapter 13 vs Chapter 7 Discharge: https://section1328.org/vs-chapter-7.html
+- Privacy Policy: https://section1328.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
