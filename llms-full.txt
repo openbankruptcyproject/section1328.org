@@ -300,7 +300,7 @@ voluntarypetition.org
 GitHub
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -558,7 +558,7 @@ voluntarypetition.org
 GitHub
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -743,7 +743,7 @@ voluntarypetition.org
 GitHub
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -1027,7 +1027,7 @@ voluntarypetition.org
 GitHub
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -1220,7 +1220,7 @@ voluntarypetition.org
 GitHub
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -1405,7 +1405,7 @@ voluntarypetition.org
 GitHub
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -1736,7 +1736,7 @@ GitHub
 Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -2026,7 +2026,7 @@ voluntarypetition.org
 GitHub
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -2211,7 +2211,7 @@ voluntarypetition.org
 GitHub
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -2422,7 +2422,7 @@ voluntarypetition.org
 GitHub
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -2502,7 +2502,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
