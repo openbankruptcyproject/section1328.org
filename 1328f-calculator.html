@@ -597,19 +597,19 @@ function calculate1328f() {
 
   if (today >= eligible) {
     resultEl.className = 'calc-result show eligible';
-    resultEl.innerHTML = '<p class="result-title" style="color:#3fb950;">The discharge bar has expired.</p>' +
-      '<p>Your prior ' + chapterLabel + ' case was filed on ' + filingStr + '. Under Section ' + barSection + ', the ' + barYears + '-year bar expired on <strong>' + eligibleStr + '</strong>.</p>' +
-      '<p>A new Chapter 13 case filed today would not be subject to this discharge bar. You are eligible to receive a Chapter 13 discharge.</p>' +
-      '<p style="font-size:0.85rem;color:#9eaab6;">This calculator checks only the 1328(f) bars. Other eligibility requirements may apply. For comprehensive screening, use the <a href="https://1328f.com">full screener</a>.</p>';
+    resultEl.innerHTML = '<p class="result-title" style="color:#3fb950;">Based on the dates entered: §1328(f) bar appears to have expired.</p>' +
+      '<p>The prior ' + chapterLabel + ' case was filed on ' + filingStr + '. Under §' + barSection + ', the ' + barYears + '-year bar appears to have expired on <strong>' + eligibleStr + '</strong>.</p>' +
+      '<p>A new Chapter 13 case filed today would not appear to be subject to the §1328(f) discharge bar based on the inputs above.</p>' +
+      '<div style="border-left:3px solid #f0883e;padding:0.6rem 0.85rem;margin-top:0.75rem;background:#1a1612;font-size:0.85rem;color:#e6edf3;line-height:1.6"><strong>Educational output only — not legal advice.</strong> This calculator checks only §1328(f) timing bars. Other eligibility requirements may apply (§727(a)(8), §727(a)(9), means test, exemptions). For comprehensive screening, use the <a href="https://1328f.com" style="color:#58a6ff">full screener</a>. Consult a licensed bankruptcy attorney before filing.</div>';
   } else {
     var diffTime = eligible.getTime() - today.getTime();
     var diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
     resultEl.className = 'calc-result show barred';
-    resultEl.innerHTML = '<p class="result-title" style="color:#f85149;">Discharge bar is active.</p>' +
-      '<p>Your prior ' + chapterLabel + ' case was filed on ' + filingStr + '. Under Section ' + barSection + ', you cannot receive a Chapter 13 discharge in a case filed before <strong>' + eligibleStr + '</strong>.</p>' +
-      '<p>That is <strong>' + diffDays + ' day' + (diffDays === 1 ? '' : 's') + '</strong> from today.</p>' +
-      '<p>You <em>can</em> still file a Chapter 13 case before that date - 1328(f) is a discharge bar, not a filing bar. You would receive the benefits of the automatic stay and plan treatment, but would not receive a discharge at the end of the plan.</p>' +
-      '<p style="font-size:0.85rem;color:#9eaab6;">This calculator checks only the 1328(f) bars. For comprehensive screening including 727(a)(8) and 727(a)(9), use the <a href="https://1328f.com">full screener</a>.</p>';
+    resultEl.innerHTML = '<p class="result-title" style="color:#f85149;">Based on the dates entered: §1328(f) bar appears to be active.</p>' +
+      '<p>The prior ' + chapterLabel + ' case was filed on ' + filingStr + '. Under §' + barSection + ', a discharge in a Chapter 13 case filed before <strong>' + eligibleStr + '</strong> would appear to be barred by the timing rule.</p>' +
+      '<p>That date is <strong>' + diffDays + ' day' + (diffDays === 1 ? '' : 's') + '</strong> from today.</p>' +
+      '<p>A Chapter 13 case can still be filed before that date — §1328(f) is a discharge bar, not a filing bar. The automatic stay and plan treatment would apply; a discharge at plan completion would not.</p>' +
+      '<div style="border-left:3px solid #f0883e;padding:0.6rem 0.85rem;margin-top:0.75rem;background:#1a1612;font-size:0.85rem;color:#e6edf3;line-height:1.6"><strong>Educational output only — not legal advice.</strong> This calculator checks only §1328(f) timing bars. Other eligibility requirements (§727(a)(8), §727(a)(9), means test) may also apply. For comprehensive screening, use the <a href="https://1328f.com" style="color:#58a6ff">full screener</a>. Consult a licensed bankruptcy attorney before filing.</div>';
   }
 
   if (typeof gtag === 'function') {
